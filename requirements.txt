@@ -5,3 +5,4 @@ torch==2.6.0
 torchvision==0.21.0
 tqdm==4.66.4
 google-genai>=1.19.0
+pydantic-ai
