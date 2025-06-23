@@ -1,7 +1,15 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# AI Agents Development Course - By Hassan Tabbal
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+This course is a basic introduction to AI Agents Development. 
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+It's intended for newcomers to the field and uses Google Gemini Flash 2.5 because Google offers a generous free tier. 
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+To create your API key, go to https://aistudio.google.com
+
+All your API keys shall be managed using Environment variables. If you are on Github codespaces, use the environment secrets feature. 
+
+If you are on Google Colab, you can use the "User Data" feature. 
+
+And of course, if you are running it locally, you can use the environment variables as usual. 
+
+
